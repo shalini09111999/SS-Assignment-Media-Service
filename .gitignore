@@ -9,9 +9,6 @@ yarn-debug.log*
 yarn-error.log*
 
 
-# Uploaded media files
-uploads/
-
 # Runtime data
 pids/
 *.pid
